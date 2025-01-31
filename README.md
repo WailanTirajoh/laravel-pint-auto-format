@@ -7,8 +7,6 @@ A simple formatter for Laravel Pint, which automatically runs `./vendor/bin/pint
 - **Automatic formatting**: The extension runs Laravel Pint on the file whenever you save or format code.
 - **Simple setup**: Just install Laravel Pint, and you're good to go!
 
-> **Tip**: You can view a demonstration of the formatter in action by adding an animated GIF or screenshot of your code being auto-formatted.
-
 ## Requirements
 
 Before using this extension, you need to install Laravel Pint in your project:
