@@ -3,6 +3,10 @@
   "displayName": "Laravel Pint Auto Format",
   "description": "auto format laravel pint",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/WailanTirajoh/laravel-pint-auto-format"
+  },
+  "publisher": "WailanTirajoh",
   "engines": {
     "vscode": "^1.96.0"
   },
